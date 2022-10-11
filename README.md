@@ -1,4 +1,5 @@
 # bootstrap
+Checklist
 1. Containers
 2. Grid Basics
 3. Colors
@@ -8,6 +9,6 @@
 7. Navbar
 8. Forms
 
-
+2 extra
 1. Floating Text
 2. Side popovver
